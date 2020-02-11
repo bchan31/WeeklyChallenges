@@ -55,7 +55,6 @@ namespace ChallengesWithTestsMark8
 
         public double SumOfMinAndMax(IEnumerable<double> numbers)
         { 
-            // throw new NotImplementedException
             if(numbers == null)
             {
                 return 0;
